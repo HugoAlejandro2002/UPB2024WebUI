@@ -23,4 +23,9 @@ public class TextBox extends Control{
         this.findControl();
         this.control.sendKeys(value+ Keys.ENTER);
     }
+
+    public String getValue(){
+        this.findControl();
+        return this.control.getAttribute("value");
+    }
 }
