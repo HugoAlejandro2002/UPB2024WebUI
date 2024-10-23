@@ -8,7 +8,7 @@ public class LoginTest extends BaseTestTodoist{
     public void verifyLogin(){
         mainPageTodoist.loginButton.click();
         loginPageTodoist.emailTextBox.setText("apazahuaychohugoalejandro@gmail.com");
-        loginPageTodoist.passwordTextBox.setText("Holasoyyo200222222");
+        loginPageTodoist.passwordTextBox.setText("Holasoyyo2002");
         loginPageTodoist.loginButton.click();
         Assertions.assertTrue(menuSectionTodoist.profileButton.isControlDislayed(), "Error: lofin failed");
     }
