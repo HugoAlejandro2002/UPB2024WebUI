@@ -22,3 +22,4 @@ public class BaseTestTodoist {
         Session.getInstance().closeSession();
     }
 }
+

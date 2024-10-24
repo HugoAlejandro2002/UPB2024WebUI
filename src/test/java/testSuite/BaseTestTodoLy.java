@@ -24,6 +24,4 @@ public class BaseTestTodoLy {
     public void closeBrowser(){
         Session.getInstance().closeSession();
     }
-
-
 }

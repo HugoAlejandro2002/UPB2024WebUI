@@ -18,3 +18,4 @@ public class CreateProjectTest extends BaseTestTodoist{
         Assertions.assertEquals(name,projectSection.projectLabel.getText(),"ERROR the project was not created");
     }
 }
+

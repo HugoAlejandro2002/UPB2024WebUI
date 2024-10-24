@@ -13,3 +13,4 @@ public class LoginTest extends BaseTestTodoist{
         Assertions.assertTrue(menuSectionTodoist.profileButton.isControlDislayed(), "Error: lofin failed");
     }
 }
+
