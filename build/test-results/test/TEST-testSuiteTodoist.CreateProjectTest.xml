@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="testSuiteTodoist.CreateProjectTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-10-23T21:50:28" hostname="HUGOALEJANDRO" time="13.464">
+  <properties/>
+  <testcase name="createProjectSuccessfully()" classname="testSuiteTodoist.CreateProjectTest" time="13.464"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[Oct 23, 2024 5:50:29 PM org.openqa.selenium.devtools.CdpVersionFinder findNearestMatch
+WARNING: Unable to find an exact match for CDP version 130, returning the closest version; found: 129; Please update to a Selenium version that supports CDP version 130
+]]></system-err>
+</testsuite>
